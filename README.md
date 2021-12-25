@@ -1,1 +1,12 @@
 # Manipulating_Plotting_2DArrays
+- **Neuroscience / Neuroimaging concepts**
+    - Review of simple neuroimaging and fMRI jargon terms
+- **Datascience / Coding concepts**
+    - Subsetting 2D arrays: Slicing and Indexing
+    - Cautions with array slicing
+    - Operations across single dimensions of n-D arrays
+    - `np.stack()`    
+    - Visualizing fMRI Slice data: 2D images
+    - Visualizing Collections of Voxel Time Series: Multiple line plots
+    - Functions for reusable code
+    - Creating code files for export
