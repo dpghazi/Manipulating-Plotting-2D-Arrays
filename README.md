@@ -1,4 +1,4 @@
-# Manipulating Plotting 2DArrays
+# Manipulating Plotting 2D Arrays
 - **Neuroscience / Neuroimaging concepts**
     - Review of simple neuroimaging and fMRI jargon terms
 - **Datascience / Coding concepts**
