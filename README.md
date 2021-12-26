@@ -1,5 +1,5 @@
 # Manipulating Plotting 2D Arrays
-- **Neuroscience / Neuroimaging concepts**
+- **Neuroscience / Neuroimaging Concepts**
     - Review of simple neuroimaging and fMRI jargon terms
 - **Data Science / Coding Concepts**
     - Subsetting 2D arrays: Slicing and Indexing
